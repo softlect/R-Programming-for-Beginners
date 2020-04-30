@@ -1,0 +1,52 @@
+state,abb,region,population,PopulationDensity,murders,gunmurders,gunownership
+Alabama,AL,South,4779736,94.65,199,135,0.517
+Alaska,AK,West,710231,1.264,31,19,0.578
+Arizona,AZ,West,6392017,57.05,352,232,0.311
+Arkansas,AR,South,2915918,56.43,130,93,0.553
+California,CA,West,37253956,244.2,1811,1257,0.213
+Colorado,CO,West,5029196,49.33,117,65,0.347
+Connecticut,CT,Northeast,3574097,741.4,131,97,0.167
+Delaware,DE,South,897934,470.7,48,38,0.255
+District of Columbia,DC,South,601723,10298,131,99,0.036
+Florida,FL,South,19687653,360.2,987,669,0.245
+Georgia,GA,South,9920000,172.5,527,376,0.403
+Hawaii,HI,West,1360301,216.8,24,7,0.067
+Idaho,ID,West,1567582,19.5,21,12,0.553
+Illinois,IL,North Central,12830632,231.9,453,364,0.202
+Indiana,IN,North Central,6483802,182.5,198,142,0.391
+Iowa,IA,North Central,3046355,54.81,38,21,0.429
+Kansas,KS,North Central,2853118,35.09,100,63,0.421
+Kentucky,KY,South,4339367,110,180,116,0.477
+Louisiana,LA,South,4533372,105,437,351,0.441
+Maine,ME,Northeast,1328361,43.04,24,11,0.405
+Maryland,MD,South,5773552,606.2,424,293,0.213
+Massachusetts,MA,Northeast,6547629,852.1,209,118,0.126
+Michigan,MI,North Central,9883640,174.8,558,413,0.384
+Minnesota,MN,North Central,5303925,67.14,91,53,0.417
+Mississippi,MS,South,2967297,63.5,165,120,0.553
+Missouri,MO,North Central,5988927,87.26,419,321,0.417
+Montana,MT,West,989415,6.858,21,12,0.577
+Nebraska,NE,North Central,1826341,23.97,51,32,0.386
+Nevada,NV,West,2700551,24.8,158,84,0.338
+New Hampshire,NH,Northeast,1316470,147,13,5,0.3
+New Jersey,NJ,Northeast,8791894,1189,363,246,0.123
+New Mexico,NM,West,2059179,17.16,118,67,0.348
+New York,NY,Northeast,19378102,415.3,860,517,0.18
+North Carolina,NC,South,9535483,200.6,445,286,0.413
+North Dakota,ND,North Central,672591,9.916,9,4,0.507
+Ohio,OH,North Central,11536504,282.5,460,310,0.324
+Oklahoma,OK,South,3751351,55.22,188,111,0.429
+Oregon,OR,West,3831074,40.33,78,36,0.398
+Pennsylvania,PA,Northeast,12702379,285.3,646,457,0.347
+Rhode Island,RI,Northeast,1052567,1006,29,16,0.128
+South Carolina,SC,South,4625364,157.1,280,207,0.423
+South Dakota,SD,North Central,814180,10.86,14,8,0.566
+Tennessee,TN,South,6346105,156.6,356,219,0.439
+Texas,TX,South,25145561,98.07,1246,805,0.359
+Utah,UT,West,2763885,34.3,52,22,0.439
+Vermont,VT,Northeast,625741,67.73,7,2,0.42
+Virginia,VA,South,8001024,207.3,369,250,0.351
+Washington,WA,West,6724540,102.6,151,93,0.331
+West Virginia,WV,South,1852994,77.06,55,27,0.554
+Wisconsin,WI,North Central,5686986,105.2,151,97,0.444
+Wyoming,WY,West,563626,5.851,8,5,0.597
