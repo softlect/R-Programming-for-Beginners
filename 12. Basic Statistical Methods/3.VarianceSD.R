@@ -1,0 +1,33 @@
+x <- c(10,45,30,50,35,40,80,25)
+mean(x)
+var(x)
+sd(x)
+
+x <- c(28,25,26,27,31,32,24)
+mean(x)
+var(x)
+sd(x)
+
+par(mfrow=c(2,1))
+library(dplyr)
+mydataGE <- read.csv('GEStock.csv')
+mysubdataGE <- select(mydataGE,Date,Price) 
+mean(mysubdataGE$Price)
+median(mysubdataGE$Price)
+var(mysubdataGE$Price)
+sd(mysubdataGE$Price)
+plot(mysubdataGE$Price,main='GE Stocks',col='red',pch=20,type='l')
+mtext(paste('Median',median(mysubdataGE$Price)),side=3,adj=0)
+mtext(paste('Standard Deviation',sd(mysubdataGE$Price)),side=3,adj=1)
+
+
+mydataIBM <- read.csv('IBMStock.csv')
+mysubdataIBM <- select(mydataIBM,Date,Price) 
+mean(mysubdataIBM$Price)
+median(mysubdataIBM$Price)
+var(mysubdataIBM$Price)
+sd(mysubdataIBM$Price)
+plot(mysubdataIBM$Price,main='IBM Stocks',col='blue',pch=20,type='l')
+mtext(paste('Median',median(mysubdataIBM$Price)),side=3,adj=0)
+mtext(paste('Standard Deviation',sd(mysubdataIBM$Price)),side=3,adj=1)
+
